@@ -1,5 +1,4 @@
-# job4j_auth
-Restfull проект на SpringBoot
+# Restfull проект на SpringBoot
 Стэк технологии:
 - Spring Boot
 - JUnit
