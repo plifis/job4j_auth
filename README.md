@@ -4,4 +4,4 @@
 - ![](https://img.shields.io/badge/Maven-3-red); 
 - ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow);
 
-[![Build Status](https://app.travis-ci.com/plifis/job4j_auth.svg?branch=main)](https://app.travis-ci.com/plifis/job4j_auth)
+[![Build Status](https://app.travis-ci.com/plifis/job4j_auth.svg?branch=master)](https://app.travis-ci.com/plifis/job4j_auth)
